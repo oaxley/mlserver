@@ -2,6 +2,10 @@
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square)
 
+---
+# WORK IN PROGRESS
+---
+
 ## Goals
 
 Run ML/AI models on GPU servers and expose them through an API running on a different server.  
